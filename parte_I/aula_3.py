@@ -20,7 +20,7 @@ print(5 * 5 * 5 * 5)
 print('5 elevado a 4 é', 5**4)
 
 import math
-print('A raíz quadrada de 81 é', math.sqrt(81))
+print('A raiz quadrada de 81 é', math.sqrt(81))
 
 # Arredondamento
 

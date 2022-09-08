@@ -1,4 +1,4 @@
-# exercicios
+# exercícios
 
 def le_string(mensagem):
     entrada = str(input(mensagem)) 
